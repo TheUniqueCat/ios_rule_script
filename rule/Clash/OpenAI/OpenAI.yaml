@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 3
 # TOTAL: 6
 payload:
+  - DOMAIN,stripecdn.com
   - DOMAIN,azureedge.net
   - DOMAIN,intercom.io
   - DOMAIN,stripe.com
@@ -15,6 +16,7 @@ payload:
   - DOMAIN,cdn.auth0.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,openai.com
